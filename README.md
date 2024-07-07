@@ -1,8 +1,13 @@
 # ESP32 GEMINI
 Chat with Gemini on ESP32-2432S028 CYD (cheap yellow display)
-
 This project uses LVGL and Gemini API, its a simple AI project with ESP32-2432S028
 
+Example 1:
+![](https://github.com/MYusufY/lvgl-gemini/blob/main/examples/example_1.gif)
+Example 2:
+![](https://github.com/MYusufY/lvgl-gemini/blob/main/examples/example_2.gif)
+Example 3:
+![](https://github.com/MYusufY/lvgl-gemini/blob/main/examples/example_3.gif)
 
 # How to: Build and Upload!
 ## Setup Libraries
