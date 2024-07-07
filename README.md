@@ -4,7 +4,6 @@ This project uses LVGL and Gemini API, its a simple AI project with ESP32-2432S0
 
 ![](https://github.com/MYusufY/lvgl-gemini/blob/main/examples/example_1.gif)
 ![](https://github.com/MYusufY/lvgl-gemini/blob/main/examples/example_2.gif)
-![](https://github.com/MYusufY/lvgl-gemini/blob/main/examples/example_3.gif)
 
 # How to: Build and Upload!
 ## Setup Libraries
