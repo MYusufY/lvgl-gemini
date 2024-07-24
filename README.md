@@ -13,7 +13,7 @@ This project uses LVGL and Gemini API, its a simple AI project with ESP32-2432S0
 The requried libraries with their configuration files are given under the "arduino_lib" folder. Change the libraries path in platformio.ini file to the path of arduino_lib folder.
 
 ## Building & Uploading
-*I didnt test if it works by simply opening the main.ino file with Arduino IDE and uploading it* (you should choose ESP32 Dev Module as board) but you can try it yourself. If it works:
+*I didnt test if it works by simply opening the main.cpp file with Arduino IDE and uploading it* (you should choose ESP32 Dev Module as board) but you can try it yourself. If it works:
 1. Setup libraries like shown above.
 2. Set your wifi ssid, password and api key settings in main.ino
 3. Select ESP32 Dev Module as Board
